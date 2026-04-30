@@ -1,5 +1,5 @@
 name,health,attack,defense,force_power,wins,losses,gauntlet_wins
-Obi-Wan Kenobi,90,18,22,20,3,1,0
-Yoda,75,15,28,30,2,1,0
+Obi-Wan Kenobi,90,18,22,20,0,0,0
+Yoda,75,15,28,30,0,0,0
 Cal Kestis,85,22,20,22,0,0,0
-Ahsoka Tano,80,20,20,18,1,0,0
+Ahsoka Tano,80,20,20,18,0,0,0
